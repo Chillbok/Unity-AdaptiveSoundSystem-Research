@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{0d21932b-64c6-461f-a1c0-828aa84c2e62}">
+		<property name="assetPath">
+			<value>normal-combat music.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>144</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0fc79419-8c0d-4b82-825a-5b3e2f6c4055}</destination>
+		</relationship>
+	</object>
+</objects>
